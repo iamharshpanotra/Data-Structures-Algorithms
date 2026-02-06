@@ -42,5 +42,3 @@ class Solution {
 
 * **Time Complexity**: , where  is the length of the string. We perform  swaps, which simplifies to linear time.
 * **Space Complexity**: . We are modifying the input array directly and only using a fixed amount of extra space (the `left`, `right`, and `temp` variables).
-
-Since you have a solid handle on this logic, would you like me to explain how we would adapt this to check if a string is a **palindrome**?
