@@ -1,7 +1,5 @@
 # Hashing in C++ - The Complete Guide
 
-> A complete guide to Hashing in C++ for Data Structures & Algorithms, Competitive Programming, and Coding Interviews.
-
 ---
 
 # Table of Contents
