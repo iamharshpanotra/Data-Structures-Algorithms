@@ -186,9 +186,6 @@ Use a hash set whenever a problem involves:
 
 ---
 
-```
-```
-
 # Interview Takeaway
 
 The key observation is that the problem only requires **unique common elements**, making `unordered_set` the ideal data structure.
